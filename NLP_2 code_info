@@ -1,3 +1,4 @@
 Workflow of the code:
 
 "Using the Toxic Tweets Dataset, labeled with 'Toxic' as 1 and 'Non-toxic' as 0, the aim is to predict tweet toxicity using Natural Language Processing (NLP) methods. The steps involve loading the dataset, converting text into Bag of Words and TF-IDF representations, and applying predictive models like Decision Trees, Random Forest, Naive Bayes, K-NN Classifier, and SVM. Evaluation includes metrics such as Precision, Recall, F1-Score, Confusion Matrix, and ROC-AUC curve for each method."
+
